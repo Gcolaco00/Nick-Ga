@@ -1,0 +1,1 @@
+FunctionexibirMensagem(){alert("Olá! Este é um exemplo de mensagem exibida em JavaScript")}
